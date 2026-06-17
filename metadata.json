@@ -1,0 +1,6 @@
+{
+  "name": "Abbeys High Parent Control App",
+  "description": "A smart cashless dashboard for parents to fund, monitor, and configure school ID cards, dining allowances, daily limits, and activity fees for their children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
